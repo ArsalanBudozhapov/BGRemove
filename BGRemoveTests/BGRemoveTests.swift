@@ -2,7 +2,7 @@
 //  BGRemoveTests.swift
 //  BGRemoveTests
 //
-//  Created by мак on 20.05.2022.
+//  Created by.
 //
 
 import XCTest
