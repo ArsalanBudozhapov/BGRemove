@@ -8,7 +8,7 @@ s.summary = "BGRemove lets a user to remove background from images"
 s.requires_arc = true
 
 # 2
-s.version = "0.1.0"
+s.version = "1.0"
 
 # 3
 s.license = { :type => "MIT", :file => "LICENSE" }
