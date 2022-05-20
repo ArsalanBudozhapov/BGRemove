@@ -14,7 +14,7 @@ s.version = "0.1.0"
 s.license = { :type => "MIT", :file => "LICENSE" }
 
 # 4 - Replace with your name and e-mail address
-s.author = { "Arsalan Budozhapov" => "arsbud1998@gmail.com" }
+s.author = { "Arsalan Budozhapov" => "arsbudgeorg1998@gmail.com" }
 
 # 5 - Replace this URL with your own GitHub page's URL (from the address bar)
 s.homepage = "https://github.com/ArsalanBudozhapov/BGRemove"

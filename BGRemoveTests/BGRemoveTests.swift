@@ -2,7 +2,7 @@
 //  BGRemoveTests.swift
 //  BGRemoveTests
 //
-//  Created by.
+//  Created by
 //
 
 import XCTest
