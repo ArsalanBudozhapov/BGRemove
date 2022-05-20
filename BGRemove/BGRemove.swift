@@ -14,7 +14,7 @@ public struct BGRemove {
     }
     
     ///@param uploadedImage of the input image
-    ///@param filterSharpness tha sharpness of filter if needed (recommeneded)
+    ///@param filterSharpness eeded (recommeneded)
     ///@param maskOnly pass true if you want the mask onl, not the output image
     
     public func removeBackground(image: UIImage, maskOnly: Bool = false) -> UIImage {
